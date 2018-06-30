@@ -6,6 +6,8 @@ Submission for the subject Pro-Java-Dev.
 clone it and run it with mvn jetty:run
 Copy this link into your browser
 http://localhost:8080/WeatherApplication/WeatherServlet?city=YOURTOWN
+and replace YOURTOWN with your town
+
 
 # Code check
 for example you can run tests like
